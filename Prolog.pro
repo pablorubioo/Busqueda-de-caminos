@@ -1,8 +1,4 @@
 /*****************************************************************************
-
-//Pablo Rubio Machacón 70922996N
-//Victor Ramos Sánchez 71095070T
-
 		Copyright (c) My Company
 
  Project:  FINAL
